@@ -1,5 +1,8 @@
 #par2cmdline-mt
 
+**OpenMP version is now merged to upstream use <https://github.com/BlackIkeEagle/par2cmdline> instead
+of this fork.**
+
 **par2cmdline-mt** is a multithreaded (OpenMP) PAR 2.0 compatible file verification and repair tool.
 
 To see the ongoing development see <https://github.com/jkansanen/par2cmdline-mt>
